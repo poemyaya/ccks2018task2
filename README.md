@@ -1,5 +1,6 @@
 # ccks2018task2
-# CCKS-2018-Task2 in python
+# Joint Intent Detection and Slot Filling with Rules
+## Shiya Ren, Huaming Wang, Dongming Yu, Yuan Li and Zhixing Li
 
 The specific details of this task can be viewed at https://biendata.com/competition/CCKS2018_2/.
 
